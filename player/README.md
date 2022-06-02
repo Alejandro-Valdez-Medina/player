@@ -1,1 +1,1 @@
-All my header and cpp files are in the "player" folder.
+All of my header and cpp files are in the "player" folder.
